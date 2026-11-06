@@ -1,0 +1,21 @@
+{
+  "source": "Alpaca positions page, pasted by the user",
+  "as_of": "2026-11-06",
+  "prices": {
+    "AMGN": 461.5,
+    "AMZN": 261.74,
+    "AVGO": 292.86,
+    "AZN": 185.87,
+    "CAT": 558.3,
+    "GE": 322.67,
+    "GEV": 769.74,
+    "GS": 871.6,
+    "INTC": 56.64,
+    "JPM": 336.55,
+    "META": 615.14,
+    "MSFT": 532.3,
+    "NVDA": 187.77,
+    "V": 423.13,
+    "XOM": 166.3
+  }
+}

@@ -1,0 +1,204 @@
+{
+  "source": "Alpaca paper account positions pasted by the user on 2026-11-06",
+  "as_of": "2026-11-06",
+  "paper": true,
+  "cash": 24000.0,
+  "cash_note": "ESTIMATE, not from Alpaca: about $90,000 before the core buys, minus $75,000 bought, plus about $9,000 from closing AAPL AXP GOOGL KO BAC. Replace with the Cash figure from Alpaca.",
+  "positions": [
+    {
+      "ticker": "AMGN",
+      "shares": 10.840321741,
+      "avg_entry": 461.24,
+      "lots": [
+        {
+          "id": "AMGN-1",
+          "date": "2026-11-06",
+          "shares": 10.840321741,
+          "cost": 4999.99
+        }
+      ]
+    },
+    {
+      "ticker": "AMZN",
+      "shares": 19.103618232,
+      "avg_entry": 261.73,
+      "lots": [
+        {
+          "id": "AMZN-1",
+          "date": "2026-11-06",
+          "shares": 19.103618232,
+          "cost": 4999.99
+        }
+      ]
+    },
+    {
+      "ticker": "AVGO",
+      "shares": 17.136164233,
+      "avg_entry": 291.78,
+      "lots": [
+        {
+          "id": "AVGO-1",
+          "date": "2026-11-06",
+          "shares": 17.136164233,
+          "cost": 4999.99
+        }
+      ]
+    },
+    {
+      "ticker": "AZN",
+      "shares": 26.854234921,
+      "avg_entry": 186.19,
+      "lots": [
+        {
+          "id": "AZN-1",
+          "date": "2026-11-06",
+          "shares": 26.854234921,
+          "cost": 4999.99
+        }
+      ]
+    },
+    {
+      "ticker": "CAT",
+      "shares": 8.946606545,
+      "avg_entry": 558.87,
+      "lots": [
+        {
+          "id": "CAT-1",
+          "date": "2026-11-06",
+          "shares": 8.946606545,
+          "cost": 4999.99
+        }
+      ]
+    },
+    {
+      "ticker": "GE",
+      "shares": 15.46213316,
+      "avg_entry": 323.37,
+      "lots": [
+        {
+          "id": "GE-1",
+          "date": "2026-11-06",
+          "shares": 15.46213316,
+          "cost": 4999.99
+        }
+      ]
+    },
+    {
+      "ticker": "GEV",
+      "shares": 6.527146456,
+      "avg_entry": 766.03,
+      "lots": [
+        {
+          "id": "GEV-1",
+          "date": "2026-11-06",
+          "shares": 6.527146456,
+          "cost": 4999.99
+        }
+      ]
+    },
+    {
+      "ticker": "GS",
+      "shares": 5.747048884,
+      "avg_entry": 870.01,
+      "lots": [
+        {
+          "id": "GS-1",
+          "date": "2026-11-06",
+          "shares": 5.747048884,
+          "cost": 4999.99
+        }
+      ]
+    },
+    {
+      "ticker": "INTC",
+      "shares": 88.136929503,
+      "avg_entry": 56.7297,
+      "lots": [
+        {
+          "id": "INTC-1",
+          "date": "2026-11-06",
+          "shares": 88.136929503,
+          "cost": 4999.9801
+        }
+      ]
+    },
+    {
+      "ticker": "JPM",
+      "shares": 14.852886129,
+      "avg_entry": 336.6342,
+      "lots": [
+        {
+          "id": "JPM-1",
+          "date": "2026-11-06",
+          "shares": 14.852886129,
+          "cost": 4999.99
+        }
+      ]
+    },
+    {
+      "ticker": "META",
+      "shares": 8.113705699,
+      "avg_entry": 616.24,
+      "lots": [
+        {
+          "id": "META-1",
+          "date": "2026-11-06",
+          "shares": 8.113705699,
+          "cost": 4999.99
+        }
+      ]
+    },
+    {
+      "ticker": "MSFT",
+      "shares": 9.383308936,
+      "avg_entry": 532.86,
+      "lots": [
+        {
+          "id": "MSFT-1",
+          "date": "2026-11-06",
+          "shares": 9.383308936,
+          "cost": 4999.99
+        }
+      ]
+    },
+    {
+      "ticker": "NVDA",
+      "shares": 26.689388277,
+      "avg_entry": 187.34,
+      "lots": [
+        {
+          "id": "NVDA-1",
+          "date": "2026-11-06",
+          "shares": 26.689388277,
+          "cost": 4999.99
+        }
+      ]
+    },
+    {
+      "ticker": "V",
+      "shares": 11.797994336,
+      "avg_entry": 423.8,
+      "lots": [
+        {
+          "id": "V-1",
+          "date": "2026-11-06",
+          "shares": 11.797994336,
+          "cost": 4999.99
+        }
+      ]
+    },
+    {
+      "ticker": "XOM",
+      "shares": 30.134944551,
+      "avg_entry": 165.92,
+      "lots": [
+        {
+          "id": "XOM-1",
+          "date": "2026-11-06",
+          "shares": 30.134944551,
+          "cost": 4999.99
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+ "cik": "0005555555",
+ "name": "Whale Capital LP",
+ "filings": {
+  "recent": {
+   "accessionNumber": [
+    "0005555555-26-000002",
+    "0005555555-26-000001"
+   ],
+   "filingDate": [
+    "2026-11-04",
+    "2026-08-14"
+   ],
+   "reportDate": [
+    "2026-09-30",
+    "2026-06-30"
+   ],
+   "form": [
+    "13F-HR",
+    "13F-HR"
+   ],
+   "primaryDocument": [
+    "primary_doc.xml",
+    "primary_doc.xml"
+   ]
+  }
+ }
+}

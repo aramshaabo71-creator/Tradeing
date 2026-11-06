@@ -1,0 +1,18 @@
+Description:           Daily Index of EDGAR Dissemination Feed by Form Type
+
+Form Type   Company Name                                                  CIK         Date Filed  File Name
+--------------------------------------------------------------------------------------------------------------------------------------------
+SCHEDULE 13D/A   Beta Foods Corp                                               4444444     20261104    edgar/data/4444444/0001111111-26-000011.txt
+SCHEDULE 13D/A   Activist Partners LP                                          1111111     20261104    edgar/data/1111111/0001111111-26-000011.txt
+SCHEDULE 13G/A   Beta Foods Corp                                               4444444     20261104    edgar/data/4444444/0003333333-26-000021.txt
+SCHEDULE 13G/A   Big Index Advisors                                            3333333     20261104    edgar/data/3333333/0003333333-26-000021.txt
+4                Acme Robotics Inc                                             2222222     20261104    edgar/data/2222222/0009000002-26-000001.txt
+4                Stone Kim                                                     9000002     20261104    edgar/data/9000002/0009000002-26-000001.txt
+4                Acme Robotics Inc                                             2222222     20261104    edgar/data/2222222/0009000006-26-000001.txt
+4                Holding Vehicle LLC                                           9000006     20261104    edgar/data/9000006/0009000006-26-000001.txt
+4                Beta Foods Corp                                               4444444     20261104    edgar/data/4444444/0009000003-26-000001.txt
+4                Cole Pat                                                      9000003     20261104    edgar/data/9000003/0009000003-26-000001.txt
+4                Beta Foods Corp                                               4444444     20261104    edgar/data/4444444/0009000004-26-000001.txt
+4                Ng Sam                                                        9000004     20261104    edgar/data/9000004/0009000004-26-000001.txt
+4                Beta Foods Corp                                               4444444     20261104    edgar/data/4444444/0009000005-26-000001.txt
+4                Diaz Ana                                                      9000005     20261104    edgar/data/9000005/0009000005-26-000001.txt

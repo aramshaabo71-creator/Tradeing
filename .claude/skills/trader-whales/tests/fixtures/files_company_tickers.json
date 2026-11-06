@@ -1,0 +1,17 @@
+{
+ "0": {
+  "cik_str": 2222222,
+  "ticker": "ACME",
+  "title": "Acme Robotics Inc"
+ },
+ "1": {
+  "cik_str": 4444444,
+  "ticker": "BETA",
+  "title": "Beta Foods Corp"
+ },
+ "2": {
+  "cik_str": 6666666,
+  "ticker": "GAMA",
+  "title": "Gamma Mining Co"
+ }
+}

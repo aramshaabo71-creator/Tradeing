@@ -1,0 +1,38 @@
+{
+ "cik": "0001111111",
+ "name": "Activist Partners LP",
+ "filings": {
+  "recent": {
+   "accessionNumber": [
+    "0001111111-26-000011",
+    "0001111111-26-000010",
+    "0001111111-26-000005",
+    "0001111111-26-000003"
+   ],
+   "filingDate": [
+    "2026-11-04",
+    "2026-11-03",
+    "2026-09-01",
+    "2026-08-10"
+   ],
+   "reportDate": [
+    "",
+    "",
+    "",
+    "2026-06-30"
+   ],
+   "form": [
+    "SCHEDULE 13D/A",
+    "SCHEDULE 13D",
+    "SCHEDULE 13D",
+    "13F-HR"
+   ],
+   "primaryDocument": [
+    "primary_doc.xml",
+    "primary_doc.xml",
+    "primary_doc.xml",
+    "primary_doc.xml"
+   ]
+  }
+ }
+}

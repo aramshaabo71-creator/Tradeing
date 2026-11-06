@@ -1,0 +1,51 @@
+<SEC-DOCUMENT>0001111111-26-000011.txt : 20261104
+<SEC-HEADER>0001111111-26-000011.hdr.sgml : 20261104
+ACCESSION NUMBER:		0001111111-26-000011
+CONFORMED SUBMISSION TYPE:	SCHEDULE 13D/A
+PUBLIC DOCUMENT COUNT:		1
+FILED AS OF DATE:		20261104
+
+SUBJECT COMPANY:	
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			Beta Foods Corp
+		CENTRAL INDEX KEY:			0004444444
+
+FILED BY:	
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			Activist Partners LP
+		CENTRAL INDEX KEY:			0001111111
+
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>SCHEDULE 13D/A
+<SEQUENCE>1
+<FILENAME>primary_doc.xml
+<TEXT>
+<XML>
+<?xml version="1.0" encoding="UTF-8"?><edgarSubmission xmlns="http://www.sec.gov/edgar/schedule13D" xmlns:common="http://www.sec.gov/edgar/common">
+  <headerData><submissionType>SCHEDULE 13D/A</submissionType></headerData>
+  <formData>
+    <coverPageHeader>
+      <securitiesClassTitle>Common Stock</securitiesClassTitle>
+      <dateOfEvent>11/02/2026</dateOfEvent>
+      <issuerInfo><issuerCIK>0004444444</issuerCIK>
+        <issuerCusips><issuerCusipNumber>000000000</issuerCusipNumber></issuerCusips>
+        <issuerName>Beta Foods Corp</issuerName></issuerInfo>
+    </coverPageHeader>
+    <reportingPersons>
+      <reportingPersonInfo>
+        <reportingPersonCIK>0001111111</reportingPersonCIK>
+        <reportingPersonName>Activist Partners LP</reportingPersonName>
+        <aggregateAmountOwned>6000000</aggregateAmountOwned>
+        <percentOfClass>12.0</percentOfClass>
+      </reportingPersonInfo>
+    </reportingPersons>
+    <items1To7><item4><transactionPurpose>The Reporting Person intends to engage with the board about strategy.</transactionPurpose></item4></items1To7>
+  </formData>
+</edgarSubmission>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

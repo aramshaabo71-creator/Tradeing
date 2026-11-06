@@ -1,0 +1,48 @@
+<SEC-DOCUMENT>0003333333-26-000020.txt : 20261103
+<SEC-HEADER>0003333333-26-000020.hdr.sgml : 20261103
+ACCESSION NUMBER:		0003333333-26-000020
+CONFORMED SUBMISSION TYPE:	SCHEDULE 13G/A
+PUBLIC DOCUMENT COUNT:		1
+FILED AS OF DATE:		20261103
+
+SUBJECT COMPANY:	
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			Acme Robotics Inc
+		CENTRAL INDEX KEY:			0002222222
+
+FILED BY:	
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			Big Index Advisors
+		CENTRAL INDEX KEY:			0003333333
+
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>SCHEDULE 13G/A
+<SEQUENCE>1
+<FILENAME>primary_doc.xml
+<TEXT>
+<XML>
+<?xml version="1.0" encoding="UTF-8"?><edgarSubmission xmlns="http://www.sec.gov/edgar/schedule13g" xmlns:com="http://www.sec.gov/edgar/common">
+  <headerData><submissionType>SCHEDULE 13G/A</submissionType></headerData>
+  <formData>
+    <coverPageHeader>
+      <amendmentNo>3</amendmentNo>
+      <securitiesClassTitle>Common Stock</securitiesClassTitle>
+      <eventDateRequiresFilingThisStatement>09/30/2026</eventDateRequiresFilingThisStatement>
+      <issuerInfo><issuerCik>0002222222</issuerCik><issuerName>Acme Robotics Inc</issuerName>
+        <issuerCusips><issuerCusipNumber>000000000</issuerCusipNumber></issuerCusips></issuerInfo>
+    </coverPageHeader>
+    <coverPageHeaderReportingPersonDetails>
+      <reportingPersonName>Big Index Advisors</reportingPersonName>
+      <reportingPersonBeneficiallyOwnedAggregateNumberOfShares>2100000</reportingPersonBeneficiallyOwnedAggregateNumberOfShares>
+      <classPercent>4.2</classPercent>
+    </coverPageHeaderReportingPersonDetails>
+    <items><item5><notApplicableFlag>N</notApplicableFlag><classOwnership5PercentOrLess>Y</classOwnership5PercentOrLess></item5></items>
+  </formData>
+</edgarSubmission>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

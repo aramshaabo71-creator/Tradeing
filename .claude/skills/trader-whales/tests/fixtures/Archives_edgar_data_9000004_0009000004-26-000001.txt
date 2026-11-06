@@ -1,0 +1,52 @@
+<SEC-DOCUMENT>0009000004-26-000001.txt : 20261104
+<SEC-HEADER>0009000004-26-000001.hdr.sgml : 20261104
+ACCESSION NUMBER:		0009000004-26-000001
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		1
+FILED AS OF DATE:		20261104
+
+REPORTING-OWNER:	
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			Ng Sam
+		CENTRAL INDEX KEY:			0009000004
+
+ISSUER:	
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			Beta Foods Corp
+		CENTRAL INDEX KEY:			0004444444
+
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>form4.xml
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+ <schemaVersion>X0609</schemaVersion><documentType>4</documentType>
+ <issuer><issuerCik>0004444444</issuerCik><issuerName>Beta Foods Corp</issuerName><issuerTradingSymbol>BETA</issuerTradingSymbol></issuer>
+ <reportingOwner><reportingOwnerId><rptOwnerCik>0009000004</rptOwnerCik><rptOwnerName>Ng Sam</rptOwnerName></reportingOwnerId>
+  <reportingOwnerRelationship><isDirector>1</isDirector><isOfficer>1</isOfficer><officerTitle>Chief Executive Officer</officerTitle></reportingOwnerRelationship></reportingOwner>
+ <aff10b5One>false</aff10b5One>
+ <nonDerivativeTable><nonDerivativeTransaction>
+ <securityTitle><value>Common Stock</value></securityTitle>
+ <transactionDate><value>2026-11-02</value></transactionDate>
+ <transactionCoding><transactionFormType>4</transactionFormType><transactionCode>S</transactionCode><footnoteId id="F1"/></transactionCoding>
+ <transactionAmounts>
+  <transactionShares><value>300000</value></transactionShares>
+  <transactionPricePerShare><value>20.00</value></transactionPricePerShare>
+  <transactionAcquiredDisposedCode><value>D</value></transactionAcquiredDisposedCode>
+ </transactionAmounts>
+ <postTransactionAmounts><sharesOwnedFollowingTransaction><value>10000</value></sharesOwnedFollowingTransaction></postTransactionAmounts>
+ <ownershipNature><directOrIndirectOwnership><value>D</value></directOrIndirectOwnership></ownershipNature>
+</nonDerivativeTransaction>
+</nonDerivativeTable>
+ <footnotes><footnote id="F1">Sold under a Rule 10b5-1 trading plan adopted May 1, 2026.</footnote></footnotes>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

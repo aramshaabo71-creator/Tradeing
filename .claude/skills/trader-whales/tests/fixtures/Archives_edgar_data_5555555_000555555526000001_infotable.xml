@@ -1,0 +1,7 @@
+<?xml version="1.0"?><informationTable xmlns="http://www.sec.gov/edgar/document/thirteenf/informationtable"><infoTable><nameOfIssuer>BETA FOODS CORP</nameOfIssuer><titleOfClass>COM</titleOfClass>
+<cusip>074000101</cusip><value>20000000</value><shrsOrPrnAmt><sshPrnamt>1000000</sshPrnamt><sshPrnamtType>SH</sshPrnamtType></shrsOrPrnAmt>
+<investmentDiscretion>SOLE</investmentDiscretion></infoTable><infoTable><nameOfIssuer>GAMMA MINING CO</nameOfIssuer><titleOfClass>COM</titleOfClass>
+<cusip>364000101</cusip><value>29000000</value><shrsOrPrnAmt><sshPrnamt>3000000</sshPrnamt><sshPrnamtType>SH</sshPrnamtType></shrsOrPrnAmt>
+<investmentDiscretion>SOLE</investmentDiscretion></infoTable><infoTable><nameOfIssuer>DELTA SHIPPING INC</nameOfIssuer><titleOfClass>COM</titleOfClass>
+<cusip>247000101</cusip><value>15000000</value><shrsOrPrnAmt><sshPrnamt>500000</sshPrnamt><sshPrnamtType>SH</sshPrnamtType></shrsOrPrnAmt>
+<investmentDiscretion>SOLE</investmentDiscretion></infoTable></informationTable>

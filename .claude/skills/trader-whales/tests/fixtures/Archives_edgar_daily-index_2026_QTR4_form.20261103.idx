@@ -1,0 +1,14 @@
+Description:           Daily Index of EDGAR Dissemination Feed by Form Type
+
+Form Type   Company Name                                                  CIK         Date Filed  File Name
+--------------------------------------------------------------------------------------------------------------------------------------------
+SCHEDULE 13D     Acme Robotics Inc                                             2222222     20261103    edgar/data/2222222/0001111111-26-000010.txt
+SCHEDULE 13D     Activist Partners LP                                          1111111     20261103    edgar/data/1111111/0001111111-26-000010.txt
+SCHEDULE 13G/A   Acme Robotics Inc                                             2222222     20261103    edgar/data/2222222/0003333333-26-000020.txt
+SCHEDULE 13G/A   Big Index Advisors                                            3333333     20261103    edgar/data/3333333/0003333333-26-000020.txt
+SC 13G           Acme Robotics Inc                                             2222222     20261103    edgar/data/2222222/0007777777-26-000030.txt
+SC 13G           Old Fund LLC                                                  7777777     20261103    edgar/data/7777777/0007777777-26-000030.txt
+4                Acme Robotics Inc                                             2222222     20261103    edgar/data/2222222/0009000001-26-000001.txt
+4                Ray Lena                                                      9000001     20261103    edgar/data/9000001/0009000001-26-000001.txt
+8-K              Acme Robotics Inc                                             2222222     20261103    edgar/data/2222222/0002222222-26-000099.txt
+4                Gamma Mining Co                                               6666666     20261103    edgar/data/6666666/0009000009-26-000001.txt

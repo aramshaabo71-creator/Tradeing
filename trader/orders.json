@@ -228,5 +228,49 @@
       "filled_on": "2026-11-06",
       "filled_note": "Executed on the Alpaca paper account per the user; fill price and share count not recorded here"
     }
+  ],
+  "to_close": [
+    {
+      "symbol": "AAPL",
+      "side": "sell",
+      "action": "close entire position",
+      "status": "user closes it in Alpaca",
+      "requested_on": "2026-11-06"
+    },
+    {
+      "symbol": "AXP",
+      "side": "sell",
+      "action": "close entire position",
+      "status": "user closes it in Alpaca",
+      "requested_on": "2026-11-06"
+    },
+    {
+      "symbol": "GOOGL",
+      "side": "sell",
+      "action": "close entire position",
+      "status": "user closes it in Alpaca",
+      "requested_on": "2026-11-06"
+    },
+    {
+      "symbol": "KO",
+      "side": "sell",
+      "action": "close entire position",
+      "status": "user closes it in Alpaca",
+      "requested_on": "2026-11-06"
+    },
+    {
+      "symbol": "BAC",
+      "side": "sell",
+      "action": "close entire position",
+      "status": "user closes it in Alpaca",
+      "requested_on": "2026-11-06"
+    },
+    {
+      "symbol": "INTC",
+      "side": "sell",
+      "action": "close entire position",
+      "status": "user closes it in Alpaca",
+      "requested_on": "2026-11-06"
+    }
   ]
 }

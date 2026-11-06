@@ -227,6 +227,16 @@
       "status": "filled",
       "filled_on": "2026-11-06",
       "filled_note": "Executed on the Alpaca paper account per the user; fill price and share count not recorded here"
+    },
+    {
+      "symbol": "INTC",
+      "side": "buy",
+      "notional": "4000",
+      "type": "market",
+      "time_in_force": "day",
+      "status": "filled",
+      "filled_on": "2026-11-06",
+      "filled_note": "Bought by the user directly in Alpaca (not through trader-risk/trader-broker); fill price and share count not recorded here"
     }
   ],
   "closed": [
@@ -276,5 +286,5 @@
       "note": "Closed in Alpaca by the user (Close position); price and share count not recorded here"
     }
   ],
-  "note_intc": "INTC was on the close list but the user decided to keep it (2026-11-06)."
+  "note_intc": "INTC was on the close list but the user kept it (2026-11-06) and added $4,000, so $5,000 in total at purchase."
 }

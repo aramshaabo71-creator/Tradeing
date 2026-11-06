@@ -1,68 +1,68 @@
 {
   "source": "Core list chosen by the user on 2026-11-06, equal weight",
   "as_of": "2026-11-06",
-  "method": "14 core stocks equal weight ($5,000 each) plus INTC kept at its $1,000 purchase; weights are each purchase amount over $71,000",
+  "method": "15 stocks equal weight: the 14 core stocks and INTC, $5,000 each at purchase",
   "replaces": "BERKSHIRE HATHAWAY INC 13F-HR top 5 (2026-06-30); AAPL, AXP, GOOGL, KO, BAC closed by the user",
   "weights": [
     {
       "ticker": "MSFT",
-      "weight": 7.0423
+      "weight": 6.6667
     },
     {
       "ticker": "NVDA",
-      "weight": 7.0423
+      "weight": 6.6667
     },
     {
       "ticker": "META",
-      "weight": 7.0423
+      "weight": 6.6667
     },
     {
       "ticker": "AVGO",
-      "weight": 7.0423
+      "weight": 6.6667
     },
     {
       "ticker": "AMZN",
-      "weight": 7.0423
+      "weight": 6.6667
     },
     {
       "ticker": "JPM",
-      "weight": 7.0423
+      "weight": 6.6667
     },
     {
       "ticker": "V",
-      "weight": 7.0423
+      "weight": 6.6667
     },
     {
       "ticker": "GS",
-      "weight": 7.0423
+      "weight": 6.6667
     },
     {
       "ticker": "AMGN",
-      "weight": 7.0423
+      "weight": 6.6667
     },
     {
       "ticker": "AZN",
-      "weight": 7.0423
+      "weight": 6.6667
     },
     {
       "ticker": "CAT",
-      "weight": 7.0423
+      "weight": 6.6667
     },
     {
       "ticker": "GE",
-      "weight": 7.0423
+      "weight": 6.6667
     },
     {
       "ticker": "GEV",
-      "weight": 7.0423
+      "weight": 6.6667
     },
     {
       "ticker": "XOM",
-      "weight": 7.0423
+      "weight": 6.6667
     },
     {
       "ticker": "INTC",
-      "weight": 1.4085
+      "weight": 6.6667
     }
   ]
 }

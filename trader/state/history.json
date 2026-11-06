@@ -1,0 +1,29 @@
+{
+  "note": "Daily portfolio value, written by the morning watch. The first row is the start, from the Alpaca positions page.",
+  "days": [
+    {
+      "date": "2026-11-06",
+      "source": "Alpaca positions page (start)",
+      "stocks": 75021.88,
+      "cash": 24902.94,
+      "total": 99924.82,
+      "per_stock": {
+        "AMGN": 5002.75,
+        "AMZN": 5000.18,
+        "AVGO": 5018.5,
+        "AZN": 4991.4,
+        "CAT": 4994.85,
+        "GE": 4989.09,
+        "GEV": 5024.21,
+        "GS": 5009.13,
+        "INTC": 4991.64,
+        "JPM": 4998.74,
+        "META": 4991.06,
+        "MSFT": 4994.69,
+        "NVDA": 5011.33,
+        "V": 4992.09,
+        "XOM": 5011.29
+      }
+    }
+  ]
+}

@@ -229,48 +229,52 @@
       "filled_note": "Executed on the Alpaca paper account per the user; fill price and share count not recorded here"
     }
   ],
-  "to_close": [
+  "closed": [
     {
       "symbol": "AAPL",
       "side": "sell",
       "action": "close entire position",
-      "status": "user closes it in Alpaca",
-      "requested_on": "2026-11-06"
+      "status": "closed",
+      "requested_on": "2026-11-06",
+      "reported_on": "2026-11-06",
+      "note": "Closed in Alpaca by the user (Close position); price and share count not recorded here"
     },
     {
       "symbol": "AXP",
       "side": "sell",
       "action": "close entire position",
-      "status": "user closes it in Alpaca",
-      "requested_on": "2026-11-06"
+      "status": "closed",
+      "requested_on": "2026-11-06",
+      "reported_on": "2026-11-06",
+      "note": "Closed in Alpaca by the user (Close position); price and share count not recorded here"
     },
     {
       "symbol": "GOOGL",
       "side": "sell",
       "action": "close entire position",
-      "status": "user closes it in Alpaca",
-      "requested_on": "2026-11-06"
+      "status": "closed",
+      "requested_on": "2026-11-06",
+      "reported_on": "2026-11-06",
+      "note": "Closed in Alpaca by the user (Close position); price and share count not recorded here"
     },
     {
       "symbol": "KO",
       "side": "sell",
       "action": "close entire position",
-      "status": "user closes it in Alpaca",
-      "requested_on": "2026-11-06"
+      "status": "closed",
+      "requested_on": "2026-11-06",
+      "reported_on": "2026-11-06",
+      "note": "Closed in Alpaca by the user (Close position); price and share count not recorded here"
     },
     {
       "symbol": "BAC",
       "side": "sell",
       "action": "close entire position",
-      "status": "user closes it in Alpaca",
-      "requested_on": "2026-11-06"
-    },
-    {
-      "symbol": "INTC",
-      "side": "sell",
-      "action": "close entire position",
-      "status": "user closes it in Alpaca",
-      "requested_on": "2026-11-06"
+      "status": "closed",
+      "requested_on": "2026-11-06",
+      "reported_on": "2026-11-06",
+      "note": "Closed in Alpaca by the user (Close position); price and share count not recorded here"
     }
-  ]
+  ],
+  "note_intc": "INTC was on the close list but the user decided to keep it (2026-11-06)."
 }

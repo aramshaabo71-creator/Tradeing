@@ -2,8 +2,8 @@
   "source": "Alpaca paper account positions pasted by the user on 2026-11-06",
   "as_of": "2026-11-06",
   "paper": true,
-  "cash": 24000.0,
-  "cash_note": "ESTIMATE, not from Alpaca: about $90,000 before the core buys, minus $75,000 bought, plus about $9,000 from closing AAPL AXP GOOGL KO BAC. Replace with the Cash figure from Alpaca.",
+  "cash": 24902.94,
+  "cash_note": "From the Alpaca account page, given by the user on 2026-11-06",
   "positions": [
     {
       "ticker": "AMGN",

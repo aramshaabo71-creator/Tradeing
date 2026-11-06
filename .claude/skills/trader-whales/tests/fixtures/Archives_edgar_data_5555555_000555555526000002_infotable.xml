@@ -1,0 +1,7 @@
+<?xml version="1.0"?><informationTable xmlns="http://www.sec.gov/edgar/document/thirteenf/informationtable"><infoTable><nameOfIssuer>ACME ROBOTICS INC</nameOfIssuer><titleOfClass>COM</titleOfClass>
+<cusip>004000101</cusip><value>90000000</value><shrsOrPrnAmt><sshPrnamt>6000000</sshPrnamt><sshPrnamtType>SH</sshPrnamtType></shrsOrPrnAmt>
+<investmentDiscretion>SOLE</investmentDiscretion></infoTable><infoTable><nameOfIssuer>BETA FOODS CORP</nameOfIssuer><titleOfClass>COM</titleOfClass>
+<cusip>074000101</cusip><value>40000000</value><shrsOrPrnAmt><sshPrnamt>2000000</sshPrnamt><sshPrnamtType>SH</sshPrnamtType></shrsOrPrnAmt>
+<investmentDiscretion>SOLE</investmentDiscretion></infoTable><infoTable><nameOfIssuer>GAMMA MINING CO</nameOfIssuer><titleOfClass>COM</titleOfClass>
+<cusip>364000101</cusip><value>30000000</value><shrsOrPrnAmt><sshPrnamt>3100000</sshPrnamt><sshPrnamtType>SH</sshPrnamtType></shrsOrPrnAmt>
+<investmentDiscretion>SOLE</investmentDiscretion></infoTable></informationTable>

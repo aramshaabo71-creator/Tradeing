@@ -1,0 +1,22 @@
+{
+ "filers": [
+  {
+   "cik": "0005555555",
+   "name": "Whale Capital LP",
+   "person": "Jane Whale",
+   "aliases": [
+    "whale",
+    "jane whale"
+   ]
+  },
+  {
+   "cik": "0001111111",
+   "name": "Activist Partners LP",
+   "person": "Max Pressure",
+   "aliases": [
+    "activist",
+    "max pressure"
+   ]
+  }
+ ]
+}

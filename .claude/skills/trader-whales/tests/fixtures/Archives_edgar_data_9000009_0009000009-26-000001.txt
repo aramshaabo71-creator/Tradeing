@@ -1,0 +1,52 @@
+<SEC-DOCUMENT>0009000009-26-000001.txt : 20261103
+<SEC-HEADER>0009000009-26-000001.hdr.sgml : 20261103
+ACCESSION NUMBER:		0009000009-26-000001
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		1
+FILED AS OF DATE:		20261103
+
+REPORTING-OWNER:	
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			Plan Seller
+		CENTRAL INDEX KEY:			0009000009
+
+ISSUER:	
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			Gamma Mining Co
+		CENTRAL INDEX KEY:			0006666666
+
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>form4.xml
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+ <schemaVersion>X0609</schemaVersion><documentType>4</documentType>
+ <issuer><issuerCik>0006666666</issuerCik><issuerName>Gamma Mining Co</issuerName><issuerTradingSymbol>GAMA</issuerTradingSymbol></issuer>
+ <reportingOwner><reportingOwnerId><rptOwnerCik>0009000009</rptOwnerCik><rptOwnerName>Plan Seller</rptOwnerName></reportingOwnerId>
+  <reportingOwnerRelationship><isDirector>1</isDirector></reportingOwnerRelationship></reportingOwner>
+ <aff10b5One>true</aff10b5One>
+ <nonDerivativeTable><nonDerivativeTransaction>
+ <securityTitle><value>Common Stock</value></securityTitle>
+ <transactionDate><value>2026-11-02</value></transactionDate>
+ <transactionCoding><transactionFormType>4</transactionFormType><transactionCode>S</transactionCode></transactionCoding>
+ <transactionAmounts>
+  <transactionShares><value>500000</value></transactionShares>
+  <transactionPricePerShare><value>10.00</value></transactionPricePerShare>
+  <transactionAcquiredDisposedCode><value>D</value></transactionAcquiredDisposedCode>
+ </transactionAmounts>
+ <postTransactionAmounts><sharesOwnedFollowingTransaction><value>0</value></sharesOwnedFollowingTransaction></postTransactionAmounts>
+ <ownershipNature><directOrIndirectOwnership><value>D</value></directOrIndirectOwnership></ownershipNature>
+</nonDerivativeTransaction>
+</nonDerivativeTable>
+ <footnotes></footnotes>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

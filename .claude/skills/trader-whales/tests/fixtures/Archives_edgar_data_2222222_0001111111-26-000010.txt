@@ -1,0 +1,51 @@
+<SEC-DOCUMENT>0001111111-26-000010.txt : 20261103
+<SEC-HEADER>0001111111-26-000010.hdr.sgml : 20261103
+ACCESSION NUMBER:		0001111111-26-000010
+CONFORMED SUBMISSION TYPE:	SCHEDULE 13D
+PUBLIC DOCUMENT COUNT:		1
+FILED AS OF DATE:		20261103
+
+SUBJECT COMPANY:	
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			Acme Robotics Inc
+		CENTRAL INDEX KEY:			0002222222
+
+FILED BY:	
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			Activist Partners LP
+		CENTRAL INDEX KEY:			0001111111
+
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>SCHEDULE 13D
+<SEQUENCE>1
+<FILENAME>primary_doc.xml
+<TEXT>
+<XML>
+<?xml version="1.0" encoding="UTF-8"?><edgarSubmission xmlns="http://www.sec.gov/edgar/schedule13D" xmlns:common="http://www.sec.gov/edgar/common">
+  <headerData><submissionType>SCHEDULE 13D</submissionType></headerData>
+  <formData>
+    <coverPageHeader>
+      <securitiesClassTitle>Common Stock</securitiesClassTitle>
+      <dateOfEvent>10/28/2026</dateOfEvent>
+      <issuerInfo><issuerCIK>0002222222</issuerCIK>
+        <issuerCusips><issuerCusipNumber>000000000</issuerCusipNumber></issuerCusips>
+        <issuerName>Acme Robotics Inc</issuerName></issuerInfo>
+    </coverPageHeader>
+    <reportingPersons>
+      <reportingPersonInfo>
+        <reportingPersonCIK>0001111111</reportingPersonCIK>
+        <reportingPersonName>Activist Partners LP</reportingPersonName>
+        <aggregateAmountOwned>3750000</aggregateAmountOwned>
+        <percentOfClass>7.5</percentOfClass>
+      </reportingPersonInfo>
+    </reportingPersons>
+    <items1To7><item4><transactionPurpose>The Reporting Person intends to engage with the board about strategy.</transactionPurpose></item4></items1To7>
+  </formData>
+</edgarSubmission>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

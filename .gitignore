@@ -1,0 +1,3 @@
+trader/config.json
+trader/state/whales_cache.json
+__pycache__/

@@ -12,9 +12,163 @@
       "verdict": "PASS",
       "reasons": [],
       "warnings": []
+    },
+    {
+      "index": 2,
+      "symbol": "MSFT",
+      "side": "buy",
+      "amount": "$5,000",
+      "value_usd": 5000.0,
+      "fingerprint": "bd6438ca10c6c59d",
+      "verdict": "PASS",
+      "reasons": [],
+      "warnings": []
+    },
+    {
+      "index": 3,
+      "symbol": "NVDA",
+      "side": "buy",
+      "amount": "$5,000",
+      "value_usd": 5000.0,
+      "fingerprint": "c0aff14767d6db25",
+      "verdict": "PASS",
+      "reasons": [],
+      "warnings": []
+    },
+    {
+      "index": 4,
+      "symbol": "META",
+      "side": "buy",
+      "amount": "$5,000",
+      "value_usd": 5000.0,
+      "fingerprint": "9299987ce2f3b083",
+      "verdict": "PASS",
+      "reasons": [],
+      "warnings": []
+    },
+    {
+      "index": 5,
+      "symbol": "AVGO",
+      "side": "buy",
+      "amount": "$5,000",
+      "value_usd": 5000.0,
+      "fingerprint": "929ce0825dc70d45",
+      "verdict": "PASS",
+      "reasons": [],
+      "warnings": []
+    },
+    {
+      "index": 6,
+      "symbol": "AMZN",
+      "side": "buy",
+      "amount": "$5,000",
+      "value_usd": 5000.0,
+      "fingerprint": "e9c127b2005f4e32",
+      "verdict": "PASS",
+      "reasons": [],
+      "warnings": []
+    },
+    {
+      "index": 7,
+      "symbol": "JPM",
+      "side": "buy",
+      "amount": "$5,000",
+      "value_usd": 5000.0,
+      "fingerprint": "ff752a973a7c5e5d",
+      "verdict": "PASS",
+      "reasons": [],
+      "warnings": []
+    },
+    {
+      "index": 8,
+      "symbol": "V",
+      "side": "buy",
+      "amount": "$5,000",
+      "value_usd": 5000.0,
+      "fingerprint": "9f7dfa73e9d14c42",
+      "verdict": "PASS",
+      "reasons": [],
+      "warnings": []
+    },
+    {
+      "index": 9,
+      "symbol": "GS",
+      "side": "buy",
+      "amount": "$5,000",
+      "value_usd": 5000.0,
+      "fingerprint": "5937a351c3e0ea13",
+      "verdict": "PASS",
+      "reasons": [],
+      "warnings": []
+    },
+    {
+      "index": 10,
+      "symbol": "AMGN",
+      "side": "buy",
+      "amount": "$5,000",
+      "value_usd": 5000.0,
+      "fingerprint": "16ca9c77e54bbe21",
+      "verdict": "PASS",
+      "reasons": [],
+      "warnings": []
+    },
+    {
+      "index": 11,
+      "symbol": "AZN",
+      "side": "buy",
+      "amount": "$5,000",
+      "value_usd": 5000.0,
+      "fingerprint": "13cc0616741b19c5",
+      "verdict": "PASS",
+      "reasons": [],
+      "warnings": []
+    },
+    {
+      "index": 12,
+      "symbol": "CAT",
+      "side": "buy",
+      "amount": "$5,000",
+      "value_usd": 5000.0,
+      "fingerprint": "cda9818e02c09f6f",
+      "verdict": "PASS",
+      "reasons": [],
+      "warnings": []
+    },
+    {
+      "index": 13,
+      "symbol": "GE",
+      "side": "buy",
+      "amount": "$5,000",
+      "value_usd": 5000.0,
+      "fingerprint": "80c8555ddaf094c4",
+      "verdict": "PASS",
+      "reasons": [],
+      "warnings": []
+    },
+    {
+      "index": 14,
+      "symbol": "GEV",
+      "side": "buy",
+      "amount": "$5,000",
+      "value_usd": 5000.0,
+      "fingerprint": "84977221152dd0c0",
+      "verdict": "PASS",
+      "reasons": [],
+      "warnings": []
+    },
+    {
+      "index": 15,
+      "symbol": "XOM",
+      "side": "buy",
+      "amount": "$5,000",
+      "value_usd": 5000.0,
+      "fingerprint": "58a22a42a83d3420",
+      "verdict": "PASS",
+      "reasons": [],
+      "warnings": []
     }
   ],
-  "pass": 1,
+  "pass": 15,
   "block": 0,
   "warnings": [
     "no price for AAPL: valued at its cost basis $2,500",
@@ -23,7 +177,7 @@
     "no price for KO: valued at its cost basis $1,417",
     "no price for BAC: valued at its cost basis $1,200"
   ],
-  "cash_after": 89000.0,
-  "checked_at": "2026-11-06T19:06:47",
+  "cash_after": 19000.0,
+  "checked_at": "2026-11-06T19:31:35",
   "orders_file": "trader/orders.json"
 }

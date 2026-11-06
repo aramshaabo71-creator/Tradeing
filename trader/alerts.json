@@ -1,0 +1,229 @@
+{
+  "rules": [
+    {
+      "id": "amgn-stop-415.12",
+      "symbol": "AMGN",
+      "type": "stop",
+      "price": 415.12,
+      "note": "10% under entry"
+    },
+    {
+      "id": "amgn-pct_move-5",
+      "symbol": "AMGN",
+      "type": "pct_move",
+      "pct": 5.0,
+      "rearm": true,
+      "note": "daily move 5%"
+    },
+    {
+      "id": "amzn-stop-235.56",
+      "symbol": "AMZN",
+      "type": "stop",
+      "price": 235.56,
+      "note": "10% under entry"
+    },
+    {
+      "id": "amzn-pct_move-5",
+      "symbol": "AMZN",
+      "type": "pct_move",
+      "pct": 5.0,
+      "rearm": true,
+      "note": "daily move 5%"
+    },
+    {
+      "id": "avgo-stop-262.60",
+      "symbol": "AVGO",
+      "type": "stop",
+      "price": 262.6,
+      "note": "10% under entry"
+    },
+    {
+      "id": "avgo-pct_move-5",
+      "symbol": "AVGO",
+      "type": "pct_move",
+      "pct": 5.0,
+      "rearm": true,
+      "note": "daily move 5%"
+    },
+    {
+      "id": "azn-stop-167.57",
+      "symbol": "AZN",
+      "type": "stop",
+      "price": 167.57,
+      "note": "10% under entry"
+    },
+    {
+      "id": "azn-pct_move-5",
+      "symbol": "AZN",
+      "type": "pct_move",
+      "pct": 5.0,
+      "rearm": true,
+      "note": "daily move 5%"
+    },
+    {
+      "id": "cat-stop-502.98",
+      "symbol": "CAT",
+      "type": "stop",
+      "price": 502.98,
+      "note": "10% under entry"
+    },
+    {
+      "id": "cat-pct_move-5",
+      "symbol": "CAT",
+      "type": "pct_move",
+      "pct": 5.0,
+      "rearm": true,
+      "note": "daily move 5%"
+    },
+    {
+      "id": "ge-stop-291.03",
+      "symbol": "GE",
+      "type": "stop",
+      "price": 291.03,
+      "note": "10% under entry"
+    },
+    {
+      "id": "ge-pct_move-5",
+      "symbol": "GE",
+      "type": "pct_move",
+      "pct": 5.0,
+      "rearm": true,
+      "note": "daily move 5%"
+    },
+    {
+      "id": "gev-stop-689.43",
+      "symbol": "GEV",
+      "type": "stop",
+      "price": 689.43,
+      "note": "10% under entry"
+    },
+    {
+      "id": "gev-pct_move-5",
+      "symbol": "GEV",
+      "type": "pct_move",
+      "pct": 5.0,
+      "rearm": true,
+      "note": "daily move 5%"
+    },
+    {
+      "id": "gs-stop-783.01",
+      "symbol": "GS",
+      "type": "stop",
+      "price": 783.01,
+      "note": "10% under entry"
+    },
+    {
+      "id": "gs-pct_move-5",
+      "symbol": "GS",
+      "type": "pct_move",
+      "pct": 5.0,
+      "rearm": true,
+      "note": "daily move 5%"
+    },
+    {
+      "id": "intc-stop-51.06",
+      "symbol": "INTC",
+      "type": "stop",
+      "price": 51.06,
+      "note": "10% under entry"
+    },
+    {
+      "id": "intc-pct_move-5",
+      "symbol": "INTC",
+      "type": "pct_move",
+      "pct": 5.0,
+      "rearm": true,
+      "note": "daily move 5%"
+    },
+    {
+      "id": "jpm-stop-302.97",
+      "symbol": "JPM",
+      "type": "stop",
+      "price": 302.97,
+      "note": "10% under entry"
+    },
+    {
+      "id": "jpm-pct_move-5",
+      "symbol": "JPM",
+      "type": "pct_move",
+      "pct": 5.0,
+      "rearm": true,
+      "note": "daily move 5%"
+    },
+    {
+      "id": "meta-stop-554.62",
+      "symbol": "META",
+      "type": "stop",
+      "price": 554.62,
+      "note": "10% under entry"
+    },
+    {
+      "id": "meta-pct_move-5",
+      "symbol": "META",
+      "type": "pct_move",
+      "pct": 5.0,
+      "rearm": true,
+      "note": "daily move 5%"
+    },
+    {
+      "id": "msft-stop-479.57",
+      "symbol": "MSFT",
+      "type": "stop",
+      "price": 479.57,
+      "note": "10% under entry"
+    },
+    {
+      "id": "msft-pct_move-5",
+      "symbol": "MSFT",
+      "type": "pct_move",
+      "pct": 5.0,
+      "rearm": true,
+      "note": "daily move 5%"
+    },
+    {
+      "id": "nvda-stop-168.61",
+      "symbol": "NVDA",
+      "type": "stop",
+      "price": 168.61,
+      "note": "10% under entry"
+    },
+    {
+      "id": "nvda-pct_move-5",
+      "symbol": "NVDA",
+      "type": "pct_move",
+      "pct": 5.0,
+      "rearm": true,
+      "note": "daily move 5%"
+    },
+    {
+      "id": "v-stop-381.42",
+      "symbol": "V",
+      "type": "stop",
+      "price": 381.42,
+      "note": "10% under entry"
+    },
+    {
+      "id": "v-pct_move-5",
+      "symbol": "V",
+      "type": "pct_move",
+      "pct": 5.0,
+      "rearm": true,
+      "note": "daily move 5%"
+    },
+    {
+      "id": "xom-stop-149.33",
+      "symbol": "XOM",
+      "type": "stop",
+      "price": 149.33,
+      "note": "10% under entry"
+    },
+    {
+      "id": "xom-pct_move-5",
+      "symbol": "XOM",
+      "type": "pct_move",
+      "pct": 5.0,
+      "rearm": true,
+      "note": "daily move 5%"
+    }
+  ]
+}

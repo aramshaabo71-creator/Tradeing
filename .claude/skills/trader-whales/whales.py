@@ -761,8 +761,8 @@ OWNERSHIP_GROUPS = [
     ("Increased", {"INCREASED"}),
     ("Decreased", {"DECREASED"}),
     ("Fell to 5 % or less (exit)", {"BELOW_5", "UNDER_5"}),
-    ("Other 13D amendments (earlier filing not found, open it to see the change)",
-     {"AMENDED", "UNCHANGED"}),
+    ("Other 13D amendments (same percent, or no earlier filing found: open it to see "
+     "what changed)", {"AMENDED", "UNCHANGED"}),
 ]
 SIGNAL_RANK = {"NEW_5PCT": 0, "BELOW_5": 1, "INCREASED": 2, "DECREASED": 3,
                "UNDER_5": 4, "AMENDED": 5, "UNCHANGED": 6}

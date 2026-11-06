@@ -1,21 +1,99 @@
 {
-  "source": "Alpaca positions page, pasted by the user",
-  "as_of": "2026-11-06",
+  "as_of": "2026-11-06T20:03:18Z",
+  "source": "yahoo",
+  "note": "Delayed quotes for alerts and sizing checks. Your broker's price is the one that fills.",
   "prices": {
-    "AMGN": 461.5,
-    "AMZN": 261.74,
-    "AVGO": 292.86,
-    "AZN": 185.87,
-    "CAT": 558.3,
-    "GE": 322.67,
-    "GEV": 769.74,
-    "GS": 871.6,
-    "INTC": 56.64,
-    "JPM": 336.55,
-    "META": 615.14,
-    "MSFT": 532.3,
-    "NVDA": 187.77,
-    "V": 423.13,
-    "XOM": 166.3
+    "AMGN": 461.505,
+    "AMZN": 261.47,
+    "AVGO": 293.651,
+    "AZN": 185.85,
+    "CAT": 559.595,
+    "GE": 322.215,
+    "GEV": 772.33,
+    "GS": 872.76,
+    "INTC": 56.76,
+    "JPM": 336.47,
+    "META": 615.7,
+    "MSFT": 531.94,
+    "NVDA": 187.93,
+    "V": 422.75,
+    "XOM": 166.305
+  },
+  "detail": {
+    "AMGN": {
+      "prev_close": 460.28,
+      "time": "2026-11-06T20:03:14Z",
+      "source": "yahoo"
+    },
+    "AMZN": {
+      "prev_close": 260.21,
+      "time": "2026-11-06T20:03:18Z",
+      "source": "yahoo"
+    },
+    "AVGO": {
+      "prev_close": 291.53,
+      "time": "2026-11-06T20:03:19Z",
+      "source": "yahoo"
+    },
+    "AZN": {
+      "prev_close": 186.85,
+      "time": "2026-11-06T20:03:19Z",
+      "source": "yahoo"
+    },
+    "CAT": {
+      "prev_close": 553.64,
+      "time": "2026-11-06T20:03:15Z",
+      "source": "yahoo"
+    },
+    "GE": {
+      "prev_close": 314.73,
+      "time": "2026-11-06T20:03:20Z",
+      "source": "yahoo"
+    },
+    "GEV": {
+      "prev_close": 770.51,
+      "time": "2026-11-06T20:03:21Z",
+      "source": "yahoo"
+    },
+    "GS": {
+      "prev_close": 868.95,
+      "time": "2026-11-06T20:03:14Z",
+      "source": "yahoo"
+    },
+    "INTC": {
+      "prev_close": 52.25,
+      "time": "2026-11-06T20:03:23Z",
+      "source": "yahoo"
+    },
+    "JPM": {
+      "prev_close": 337.34,
+      "time": "2026-11-06T20:03:21Z",
+      "source": "yahoo"
+    },
+    "META": {
+      "prev_close": 605.08,
+      "time": "2026-11-06T20:03:24Z",
+      "source": "yahoo"
+    },
+    "MSFT": {
+      "prev_close": 535.93,
+      "time": "2026-11-06T20:03:22Z",
+      "source": "yahoo"
+    },
+    "NVDA": {
+      "prev_close": 181.6,
+      "time": "2026-11-06T20:03:23Z",
+      "source": "yahoo"
+    },
+    "V": {
+      "prev_close": 422.59,
+      "time": "2026-11-06T20:03:27Z",
+      "source": "yahoo"
+    },
+    "XOM": {
+      "prev_close": 165.3,
+      "time": "2026-11-06T20:03:24Z",
+      "source": "yahoo"
+    }
   }
 }
